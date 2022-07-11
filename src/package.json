@@ -1,0 +1,24 @@
+{
+  "name": "hotel-app-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tiloic972/hotel-app-console.git"
+  },
+  "keywords": [
+    "Node",
+    "Socket"
+  ],
+  "author": "loic.isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiloic972/hotel-app-console/issues"
+  },
+  "homepage": "https://github.com/tiloic972/hotel-app-console#readme"
+}
